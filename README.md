@@ -7,5 +7,9 @@ Archivos de Excel con funcionalidades diversas para optimización de tareas.
 - Plantilla para un año completo con el total de ingresos por cliente
 - Chequeo y posibilidad de modificar estado de tareas por clientes.
 
+## Cambiar nombre de archivos.xlsb
+- Archivo para cambiar masivamente el nombre de archivos en una carpeta.
+- Permite seleccionar una carpeta y recoge el nombre de todos los archivos en ella.
+- Realiza el cambio de nombre de los archivos seleccionados.
 
 # Matias Gasperini Diez
